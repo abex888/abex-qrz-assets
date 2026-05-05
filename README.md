@@ -1,2 +1,2 @@
 # abex-qrz-assets
-Server for my QRZ page
+Assets for my QRZ page
